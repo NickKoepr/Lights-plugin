@@ -1,0 +1,10 @@
+name: Lights
+main: nl.nickkoepr.lights.Lights
+version: 1.0
+author: NickKoepr
+api-version: 1.17
+
+commands:
+  lights:
+    description: Lights command.
+    usage: /lights
